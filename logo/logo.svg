@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/skuarch/Projects/kurminweb/public/images/logo1.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.90165315"
+     inkscape:cx="536.79178"
+     inkscape:cy="580.04566"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:lockguides="true"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="64.689005,152.54"
+       orientation="0,-1"
+       id="guide9116"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="84.222904,146.90697"
+       orientation="1,0"
+       id="guide28129"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="117.93024,190.42668"
+       orientation="0,-1"
+       id="guide29281"
+       inkscape:locked="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.486px;line-height:1.25;font-family:sans-serif;fill:#a8cf45;fill-opacity:0.941176;stroke:none;stroke-width:0.262151"
+       x="97.200241"
+       y="139.8047"
+       id="text823-3"
+       transform="scale(0.89670779,1.1151905)"
+       inkscape:export-filename="/home/skuarch/Projects/kurminweb/public/images/logoMini.png"
+       inkscape:export-xdpi="37.09"
+       inkscape:export-ydpi="37.09"><tspan
+         sodipodi:role="line"
+         id="tspan821-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Conthrax;-inkscape-font-specification:Conthrax;fill:#a8cf45;fill-opacity:0.941176;stroke-width:0.262151"
+         x="97.200241"
+         y="139.8047">KURMIN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.39793px;line-height:1.25;font-family:sans-serif;fill:#a8cf45;fill-opacity:0.941176;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       x="138.64575"
+       y="154.81534"
+       id="text7330"
+       inkscape:export-filename="/home/skuarch/Projects/kurminweb/public/images/logoMini.png"
+       inkscape:export-xdpi="37.09"
+       inkscape:export-ydpi="37.09"><tspan
+         sodipodi:role="line"
+         id="tspan7328"
+         style="fill:#a8cf45;fill-opacity:0.941176;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+         x="138.64575"
+         y="154.81534">R</tspan></text>
+    <path
+       style="color:#000000;fill:#a8cf45;fill-opacity:0.941176;stroke:#a8cf45;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.941176"
+       d="m 139.8418,151.44531 c -1.18546,0 -2.14844,0.96648 -2.14844,2.15625 0,1.18977 0.96298,2.15821 2.14844,2.15821 1.18545,0 2.14843,-0.96844 2.14843,-2.15821 0,-1.18977 -0.96298,-2.15625 -2.14843,-2.15625 z m 0,0.26367 c 1.04183,0 1.88476,0.84517 1.88476,1.89258 0,1.04741 -0.84293,1.89453 -1.88476,1.89453 -1.04183,0 -1.88477,-0.84712 -1.88477,-1.89453 0,-1.04741 0.84294,-1.89258 1.88477,-1.89258 z"
+       id="path8160"
+       inkscape:export-filename="/home/skuarch/Projects/kurminweb/public/images/logoMini.png"
+       inkscape:export-xdpi="37.09"
+       inkscape:export-ydpi="37.09" />
+    <path
+       style="fill:#fff212;fill-opacity:1;stroke:#fff212;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 90.688127,144.46 c 0.40178,-11.91195 6.529862,-17.19515 12.823193,-22.28707 -1.72945,5.1251 -5.431,12.38252 -3.917392,22.28707 z"
+       id="path9118"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/skuarch/Projects/kurminweb/public/images/logoMini.png"
+       inkscape:export-xdpi="37.09"
+       inkscape:export-ydpi="37.09" />
+    <path
+       style="fill:#f8ce50;fill-opacity:1;stroke:#f8ce50;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 118.6832,144.46 c 4.08931,-3.55176 6.46344,-8.84684 5.5798,-13.0072 -1.93342,-9.20492 -0.0543,-16.7611 3.36436,-24.55548 -15.91308,7.17329 -26.40993,18.1347 -26.11991,37.56268 z"
+       id="path9400"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/skuarch/Projects/kurminweb/public/images/logoMini.png"
+       inkscape:export-xdpi="37.09"
+       inkscape:export-ydpi="37.09" />
+    <path
+       style="fill:#f58634;fill-opacity:1;stroke:#f58634;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 120.75891,144.46 c 13.51458,-7.51939 0.38782,-26.81405 8.77722,-33.25466 5.04833,-3.18331 13.22502,-2.15751 20.38815,-2.58849 -4.91915,1.64127 -7.43442,2.52242 -10.17414,7.56831 -1.45274,2.96345 -2.06538,5.50134 -2.61313,8.54875 -1.15745,6.51551 -1.22657,13.01539 -10.39642,19.72609 z"
+       id="path9834"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/skuarch/Projects/kurminweb/public/images/logoMini.png"
+       inkscape:export-xdpi="37.09"
+       inkscape:export-ydpi="37.09" />
+    <path
+       style="fill:none;stroke:#a8cf45;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.941176"
+       d="m 84.222904,144.46 h 60.782226 v 0"
+       id="path28133"
+       inkscape:export-filename="/home/skuarch/Projects/kurminweb/public/images/logoMini.png"
+       inkscape:export-xdpi="37.09"
+       inkscape:export-ydpi="37.09" />
+    <path
+       style="fill:none;stroke:#a8cf45;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.941176"
+       d="m 84.22291,144.46 h 60.78222 v 0"
+       id="path28133-5"
+       inkscape:export-filename="/home/skuarch/Projects/kurminweb/public/images/logoMini.png"
+       inkscape:export-xdpi="37.09"
+       inkscape:export-ydpi="37.09" />
+    <path
+       style="fill:none;stroke:#a8cf45;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.941176"
+       d="m 84.222902,159.05219 h 60.782228 v 0"
+       id="path28133-7"
+       inkscape:export-filename="/home/skuarch/Projects/kurminweb/public/images/logoMini.png"
+       inkscape:export-xdpi="37.09"
+       inkscape:export-ydpi="37.09" />
+  </g>
+</svg>
